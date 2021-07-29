@@ -27,7 +27,8 @@
    -> second can be multiple pages ie. pages for blogs and projects and so on
    -> third -> feature stuff on the home page and then the details stuff in the other specific pages
 6. Added the [lazy loading image npm package](https://www.npmjs.com/package/react-lazy-load-image-component) for TypeScript
-7.
+7. Blacked the background to #222831
+8. Getting fonts
 
 ## Portfolio Updating Site Link : ""
 
