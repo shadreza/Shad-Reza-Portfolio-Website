@@ -14,6 +14,20 @@
 1. React.js
 2. TypeScript
 3. CSS
+4. Yarn for the package management
+
+## Some Walk Through :
+
+1. Clear the Default Stuff
+2. Adding ICON
+3. Changing the index.html from the public folder
+4. Adding React Router DOM through Yarn
+5. Thinking about the navigation and file structuring
+   -> one structure can be single page navigation
+   -> second can be multiple pages ie. pages for blogs and projects and so on
+   -> third -> feature stuff on the home page and then the details stuff in the other specific pages
+6. Added the [lazy loading image npm package](https://www.npmjs.com/package/react-lazy-load-image-component) for TypeScript
+7.
 
 ## Portfolio Updating Site Link : ""
 
